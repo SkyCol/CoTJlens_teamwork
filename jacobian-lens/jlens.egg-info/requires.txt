@@ -1,0 +1,9 @@
+torch
+huggingface_hub
+transformers>=5.5
+numpy
+
+[dev]
+pytest
+ruff
+datasets
